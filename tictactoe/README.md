@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This was my very first React project ever. It's not much but it's honest work. The purpose of this project was just to become acquainted with the framework React.
+This was my very first React project ever. It's not much but it's honest work. The purpose of this project was to become acquainted with the framework React.
 
 ## What it looks like
 ![alt text](https://github.com/TheyCallMeLuke/React-projects/blob/main/tictactoe/screenshots/tictactoe.png?raw=true)
