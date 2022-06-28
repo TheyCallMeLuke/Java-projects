@@ -1,6 +1,6 @@
 # MovieLand
 
-MovieLand is a web application where you can search movies from the The Open Movie Database (https://www.omdbapi.com/). The app was made by following 
+MovieLand is a web application that allows you to search movies from the [The Open Movie Database](https://www.omdbapi.com/). The app was made by following 
 the tutorial at https://www.youtube.com/watch?v=b9eMGE7QtTk&t=1493s&ab_channel=JavaScriptMastery.
 
 ## Tech stack
@@ -11,6 +11,10 @@ the tutorial at https://www.youtube.com/watch?v=b9eMGE7QtTk&t=1493s&ab_channel=J
 
 ## What I've added
 - Instead of starting the search by clicking the search button, you can now use the enter button to search.
+
+## What I've learned
+- improved knowledge of the JSX syntax
+- learned about useState and useEffect
 
 ## Screenshots
 
