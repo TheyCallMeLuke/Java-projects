@@ -13,8 +13,8 @@ the tutorial at https://www.youtube.com/watch?v=b9eMGE7QtTk&t=1493s&ab_channel=J
 - Instead of starting the search by clicking the search button, you can now use the enter button to search.
 
 ## What I've learned
-- improved knowledge of the JSX syntax
-- learned about useState and useEffect
+- solidified my knowledge of the JSX syntax
+- learned about useState hooks and useEffect for watching variable changes
 
 ## Screenshots
 
