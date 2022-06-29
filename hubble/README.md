@@ -11,6 +11,9 @@ The app consists of a single page based on https://huddle.com/.
 - ReactJS
 - Styled Components
 
+## What I've learned
+- What styled componenets are, what they are used for and what their advantages compared to css are 
+
 ## Source
 
 The app was made by following the tutorial:
